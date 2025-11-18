@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+env.bak/
+venv.bak/
+
+# Models (too large for GitHub - 100MB limit)
+models/*.pt
+models/*.pth
+models/*.h5
+models/*.bin
+models/*.onnx
+models/*.safetensors
+!models/.gitkeep
+
+# User Data (privacy - don't upload meeting transcripts!)
+data/user_profile.json
+data/meeting_history/
+!data/.gitkeep
+
+# Logs
+*.log
+logs/
+*.tmp
+*.temp
+
+# IDE Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.bak
+
+# Audio Files (too large)
+*.wav
+*.mp3
+*.mp4
+*.flac
+*.ogg
+!assets/.gitkeep
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment Variables
+.env
+.env.local
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit
+.streamlit/
