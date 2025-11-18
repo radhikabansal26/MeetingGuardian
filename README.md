@@ -377,7 +377,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 **Radhika Bansal**
 
 - 📧 Email: radhikabansal405@gmail.com
-- 💼 LinkedIn: [https://www.linkedin.com/in/radhika-bansal-0852a42a6/](https://www.linkedin.com/in/radhika-bansal-0852a42a6/) *(Update with your actual LinkedIn)*
+- 💼 LinkedIn: [https://www.linkedin.com/in/radhika-bansal-0852a42a6/](https://www.linkedin.com/in/radhika-bansal-0852a42a6/) 
 - 🐙 GitHub: [@radhikabansal26](https://github.com/radhikabansal26)
 - 🎓 University: Noida Institute of Engineering and Technology, Greater Noida
 - 🎯 Specialization: Artificial Intelligence
